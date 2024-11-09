@@ -2,7 +2,7 @@
 - 👀 Interessado em: trabalhar como dev python (de preferência, na área de IA)
 - 🌱 Estudando python
 - 📫 Contato: lowhack@tutamail.com
-- Discord: Mestre Shifu #8838
+- Discord: mestreshifu
 
 <!---
 lowryzen/lowryzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
