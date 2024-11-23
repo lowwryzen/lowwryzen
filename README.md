@@ -1,10 +1,9 @@
-- 👋 Ola, sendo eu, @lowwryzen
-- 👀 Interessado em: trabalhar como dev python (de preferência, na área de IA)
-- 🌱 Estudando python
-- 📫 Contato: lowhack@tutamail.com
-- Discord: mestreshifu
+![facon bold-italic](https://github.com/user-attachments/assets/8f40130f-6e35-4f83-aaa0-764bcbd5a46d)
 
-<!---
-lowryzen/lowryzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Dev python iniciante
+
+Contatos:
+
+●  Email: lowhack@tutamail.com
+
+●  Discord: mestreshifu
