@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3354415-4041-4c37-b708-3649fd952e1b">
+  <img src="https://github.com/user-attachments/assets/0dc97d3b-80cb-42ae-828c-413130061a97"
+    height=200>
 </p>
 
  ### `Olá, eu sou um dev python iniciante e estou em busca de entender como os computadores funcionam ` </h2>
