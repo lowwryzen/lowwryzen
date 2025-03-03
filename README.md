@@ -12,6 +12,7 @@
 ### <h1>🖥️ Linguagens e ferramentas:</h2>
 
 <img src= https://github.com/user-attachments/assets/b908724f-6527-405a-bb8f-e3d71f2caae8 height=40>
+<img src= https://github.com/user-attachments/assets/2c533bb5-bee6-4416-b809-c927dc16d1b7 height=40>
 <img src=https://github.com/user-attachments/assets/da9e1412-be0b-4b3f-a8f7-2082732fab28 height=40>
 
 <h1>Contatos:</h1>
