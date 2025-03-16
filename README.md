@@ -9,6 +9,8 @@
   <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a">
 </p>
 
+<h1 align='center'> About me: </h2>
+
  ### ```Mexo com computadores desde os 6 anos, mas apenas quase um ano atrás, comecei a estudar uma linguagem de programação. E desde então, me aprofundei e ciências da computação```
 
 ### <h1>🖥️ Linguagens e ferramentas:</h2>
