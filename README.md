@@ -1,17 +1,29 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0dc97d3b-80cb-42ae-828c-413130061a97"
+    align=justify
     height=150>
+</p>
 
 ---
-  
-</p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a">
+  <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a" 
+    align=right
+    height=400
+    >
 </p>
 
-<h1 align='center'> About me: </h2>
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> About me: </p> </h1></summary>
+  </ul>
+</div>
 
- ### ```Mexo com computadores desde os 6 anos, mas apenas quase um ano atrás, comecei a estudar uma linguagem de programação. E desde então, me aprofundei e ciências da computação```
+---
+
+ ### ```  Mexo com computadores desde os 6 anos, mas apenas quase um ano atrás, comecei a estudar uma linguagem de programação. E desde então, me aprofundei e ciências da computação.```
+ ### ```  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. Quem sabe um dia programarei em assembly para o meu querido Ryzen 5.```
+
+---
 
 ### <h1>🖥️ Linguagens e ferramentas:</h2>
 
