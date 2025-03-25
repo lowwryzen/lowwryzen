@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a" 
     align=right
-    height=450
+    height=400
     >
 </p>
 
@@ -17,8 +17,6 @@
   <summary><h1> <p> About me: </p> </h1></summary>
   </ul>
 </div>
-
----
 
  ### ```  Mexo com computadores desde os 6 anos, mas apenas quase um ano atrás, comecei a estudar uma linguagem de programação. E desde então, me aprofundei e ciências da computação.```
  ### ```  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. Quem sabe um dia programarei em assembly para o meu querido Ryzen 5.```
