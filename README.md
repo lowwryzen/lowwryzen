@@ -19,9 +19,10 @@
   </ul>
 </div>
 
+---
 
  ### ```  Mexo com computadores desde os 6 anos, mas apenas quase um ano atrás, comecei a estudar uma linguagem de programação. E desde então, me aprofundei e ciências da computação.```
- ### ```  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. Quem sabe um dia programarei em assembly para o meu querido Ryzen 5.```
+ ### ```  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. Quem sabe um dia programarei em assembly para o meu querido Ryzen 5. Estou sempre a procura por evolução e sempre buscando experiências novas```
 
 </br>
 
