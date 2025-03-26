@@ -30,9 +30,10 @@
 
 ### <h1>🖥️ Linguagens e ferramentas:</h2>
 
-<img src= https://github.com/user-attachments/assets/b908724f-6527-405a-bb8f-e3d71f2caae8 height=40>
-<img src= https://github.com/user-attachments/assets/2c533bb5-bee6-4416-b809-c927dc16d1b7 height=40>
-<img src=https://github.com/user-attachments/assets/da9e1412-be0b-4b3f-a8f7-2082732fab28 height=40>
+<img src= https://github.com/user-attachments/assets/c94d1852-4d68-48f1-9d54-a4a14d4faed2 height=40>
+<img src= https://github.com/user-attachments/assets/a0eab77d-38a0-4af2-be72-38248f3bad86 height=40>
+<img src= https://github.com/user-attachments/assets/c7bbcfcf-a79d-4cc8-8b32-403491c7679b height=40>
+<img src= https://github.com/user-attachments/assets/2b826faf-a7e2-4f27-8b42-f427129054fa height=40>
 
 <h1>📞Contatos:</h1>
 
