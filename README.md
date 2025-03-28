@@ -5,12 +5,6 @@
 </p>
 
 ---
-<br>
-<div id="user-content-toc" align="center">
-  <ul>
-  <summary><h1> <p> About me: </p> </h1></summary>
-  </ul>
-</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a" 
@@ -18,6 +12,13 @@
     height=350
     >
 </p>
+
+<br>
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> About me: </p> </h1></summary>
+  </ul>
+</div>
 
 ---
 
