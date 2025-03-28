@@ -13,10 +13,10 @@
     >
 </p>
 
-<br>
+
 <div id="user-content-toc" align="center">
   <ul>
-  <summary><h1> <p> About me: </p> </h1></summary>
+  <summary><h1> About me: </h1></summary>
   </ul>
 </div>
 
