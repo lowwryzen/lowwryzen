@@ -24,13 +24,14 @@
 
  ### `  Interessado desde os 6 anos em computadores, decidi mergulhar de cabeça nesse mundo, me aproximando cada vez mais no hardware `
  ### `  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. `
- ### ` Quem sabe um dia programarei em assembly para o meu querido Ryzen 5.`
 
 <br>
+  
+ > *Quem sabe um dia programarei em assembly para o meu querido Ryzen 5?*.
 
+ > Estou sempre a procura por evolução e sempre buscando experiências novas
 </br>
 
-> Estou sempre a procura por evolução e sempre buscando experiências novas
 
 
 ---
