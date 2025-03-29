@@ -45,10 +45,4 @@
 
 <h1>📞Contatos:</h1>
 
-<a href="mailto:lowhack@tutamail.com" style="outline: none; display: block;">
-  <img src="https://github.com/user-attachments/assets/6a3962b2-728c-4716-b52e-6681ff993e39" width="30" border=0>
-</a>
-
-<a href="https://discord.gg/5tvsPambYN" style="outline: none; display: block;">
-  <img src="https://github.com/user-attachments/assets/304085ca-e626-4e6a-85f2-8590da24eede" width="30" border=0>
-</a>
+[![email](https://github.com/user-attachments/assets/cd4d64e4-4493-404b-ac6f-d3107fbd9766)](mailto:lowhack@tutamail.com)[![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)](https://discord.gg/Zbgab7jC4h)
