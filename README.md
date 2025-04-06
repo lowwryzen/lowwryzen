@@ -43,6 +43,9 @@
 <img src= https://github.com/user-attachments/assets/c7bbcfcf-a79d-4cc8-8b32-403491c7679b height=40>
 <img src= https://github.com/user-attachments/assets/2b826faf-a7e2-4f27-8b42-f427129054fa height=40>
 
-<h1>📞Contatos:</h1>
+<h1>🌐Social:</h1>
 
-[![email](https://github.com/user-attachments/assets/cd4d64e4-4493-404b-ac6f-d3107fbd9766)](mailto:lowhack@tutamail.com)[![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)](https://discord.gg/Zbgab7jC4h)
+[![email](https://github.com/user-attachments/assets/cd4d64e4-4493-404b-ac6f-d3107fbd9766)](mailto:lowhack@tutamail.com) [![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)](https://discord.gg/Zbgab7jC4h) [![Youtube-logo-2342x1642-px](https://github.com/user-attachments/assets/8dd7a3fe-4a2b-44c3-bd9e-193ab2c4f9b9)](https://www.youtube.com/@lowwryzen)
+
+
+
