@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a" align=right height=350>
+  <img src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a" align=right height=400 weight=15>
   
 </p>
 
@@ -20,10 +20,16 @@
 
 ---
 
- ### `  Interessado desde os 6 anos em computadores, decidi mergulhar de cabeça nesse mundo, me aproximando cada vez mais no hardware `
- ### `  Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos. `
+ Interessado desde os 6 anos em computadores, decidi mergulhar de cabeça nesse mundo, me aproximando cada vez mais no hardware, buscando entender como um computador funciona byte a byte.
+ 
+ Planejo programar em low-level, tendo o hardware na palma da mão, posso fazer uma série de experimentos.
+ Criando projetos cada vez maiores, a fim de evoluir cada vez mais, e mais.
+<p>
 
-<br>
+> Sempre estudando, aprendendo algo novo
+
+> Um dia, fazerei projetos tão grandes quanto o linux.
+</p>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img align="right" src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=186BFD&width=435&lines=s%C3%B3+nos+computer;Viva+C+%26+Asm!;%C3%A0+procura+de+novas+experi%C3%AAncias"> 
